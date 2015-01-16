@@ -1,0 +1,52 @@
+{
+  "name": "nodebb-plugin-webmaster-xrules",
+  "version": "0.2.1",
+  "description": "ruless for NodeBB v0.6.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zay2728/nodebb-plugin-webmaster-xrules"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "spoiler",
+    "text"
+  ],
+  "author": {
+    "name": "zay2728",
+    "email": "mzainudin27@hotmail.com"
+  },
+  "license": "GNU-GL-2",
+  "bugs": {
+    "url": "https://github.com/zay2728/nodebb-plugin-webmaster-xrules/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "_id": "nodebb-plugin-webmaster-xruless@0.2.1",
+  "_from": "nodebb-plugin-webmaster-xruless@0.2.1",
+  "homepage": "https://github.com/zay2728/nodebb-plugin-webmaster-xrules",
+  "dist": {
+    "shasum": "9c9d112f37bc3d5a86f46df2e7b990defac2d443",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-xruless/-/nodebb-plugin-webmaster-xruless-0.2.1.tgz"
+  },
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "zay2728",
+    "email": "mzainudin27@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "zay2728",
+      "email": "mzainudin27@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "9c9d112f37bc3d5a86f46df2e7b990defac2d443",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-webmaster-xruless/-/nodebb-plugin-webmaster-xruless-0.2.1.tgz",
+  "gitHead": "134d0af475865c9a604b3d5b498b7928510aa94b"
+}

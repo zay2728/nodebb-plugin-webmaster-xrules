@@ -1,0 +1,11 @@
+{
+	"id": "nodebb-plugin-webmaster-xrules",
+	"name": "xrules button :D",
+	"description": "add button rules in right composer",
+	"url": "https://github.com/zay2728/nodebb-plugin-webmaster-xrules",
+	"library": "./index.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "priority": 6 }
+	],
+	"templates":"./public/templates"
+}
