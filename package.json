@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-webmaster-xrules",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "ruless for NodeBB v0.6.x",
   "main": "index.js",
   "scripts": {
