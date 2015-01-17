@@ -70,6 +70,7 @@
 			</div>
 			<div class="btn-group pull-right action-bar">
 			<!-- Modal -->
+			<style>.modal-dialog{padding-top:80px};</style>
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
